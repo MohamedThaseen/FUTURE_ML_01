@@ -1,2 +1,15 @@
 Business Contexct:
+     Need to build a sales or demand forecasting system using historical business data.Sales forecasting is one of the most widely used Machine Learning applications in real businesses. Companies rely on forecasts to plan inventory,manage cash flow, prepare staffing, avoid overstocking or losses. This task helps you understand how Machine Learning supports real business decisions, not just how to train a model.
 
+
+Objective & Key Features to Implement:
+    Goal is to predict future sales or demand based on past data and present the results in a clear, business-friendly way.
+    Solution should include:
+      * Data cleaning and handling missing values
+      * Time-based feature engineering (dates, trends, seasonality)
+      * Forecasting using regression or time-series approaches
+      * Model evaluation and error analysis
+      * Business-friendly forecast visualizations
+
+Choosed Dataset:
+Store Sales to perform Time Series Forecasting
