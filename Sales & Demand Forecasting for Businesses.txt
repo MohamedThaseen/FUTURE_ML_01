@@ -1,5 +1,8 @@
 Business Contexct:
-     Need to build a sales or demand forecasting system using historical business data.Sales forecasting is one of the most widely used Machine Learning applications in real businesses. Companies rely on forecasts to plan inventory,manage cash flow, prepare staffing, avoid overstocking or losses. This task helps you understand how Machine Learning supports real business decisions, not just how to train a model.
+     Need to build a sales or demand forecasting system using historical business data.
+Sales forecasting is one of the most widely used Machine Learning applications in real businesses. 
+Companies rely on forecasts to plan inventory,manage cash flow, prepare staffing, avoid overstocking or losses. 
+This task helps you understand how Machine Learning supports real business decisions, not just how to train a model.
 
 
 Objective & Key Features to Implement:
