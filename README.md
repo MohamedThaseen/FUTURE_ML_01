@@ -42,9 +42,3 @@ Workflow:
 Results
 Evaluated on the final 90 days of data:
 
-Model	                      MAE  	RMSE	    MAPE
-
-
-Linear Regression	          63,    476	81,  708	7.30%
-
-Random Forest	              51,    227	70,  960	5.81%
