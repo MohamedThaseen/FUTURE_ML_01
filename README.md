@@ -177,3 +177,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 ## 📜 License & Credits
 
 Dataset: Kaggle *Store Sales: Time Series Forecasting* (check the competition page for its terms of use). Add a license of your choice (e.g. MIT) for the code before publishing.
+
+
+## Author
+
+**A Mohamed Rifakath Ali**
